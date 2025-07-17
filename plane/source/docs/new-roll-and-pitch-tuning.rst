@@ -223,6 +223,8 @@ The new PID-FF controller in Plane also has a number of lowpass filters whose fr
 - :ref:`RLL_RATE_FLTE<RLL_RATE_FLTE>`: filter on roll rate error
 - :ref:`RLL_RATE_FLTD<RLL_RATE_FLTD>`: filter on D term (tends to be noisy)
 
+Add scaling speed and slew rate limiter and testing
+
 PID Controller Flow Diagram
 ===========================
 
